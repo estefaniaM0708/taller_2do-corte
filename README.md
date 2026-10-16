@@ -398,5 +398,5 @@ Prueba sin la placa: `python .\Punto_C_Atlas\pc\atlas_consola.py --sin-esp`
 ### Evidencias en video
 
 - [▶️ Video Punto A](https://drive.google.com/file/d/1Msv3wb7_htifA8v03c4k0LNmRBjU9H5o/view?usp=sharing))
-- [▶️ Video Punto B](evidencias/punto_b.mp4)](https://drive.google.com/file/d/1CiD93sSjSVOV0lZsmvCNVxhSWjz4e5Q5/view?usp=sharing)
-- [▶️ Video Punto C](https://drive.google.com/file/d/1HjAXQVlA3X45z_lQovYYwzrP-ScdmWm5/view?usp=sharing)
+- [▶️ Video Punto B]([evidencias/punto_b.mp4](https://drive.google.com/file/d/1HjAXQVlA3X45z_lQovYYwzrP-ScdmWm5/view?usp=sharing))]
+- [▶️ Video Punto C](https://drive.google.com/file/d/1CiD93sSjSVOV0lZsmvCNVxhSWjz4e5Q5/view?usp=sharing)
